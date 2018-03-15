@@ -1,0 +1,3 @@
+0	/var/www
+0	/var/www/cgi-bin
+0	/var/www/html

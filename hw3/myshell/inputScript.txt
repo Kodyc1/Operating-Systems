@@ -1,0 +1,6 @@
+mkdir foo
+touch foo/bar
+
+mv foo baz
+ls -1 baz
+

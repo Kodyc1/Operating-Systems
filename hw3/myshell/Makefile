@@ -1,0 +1,10 @@
+
+CC = gcc
+CFLAGS = -I.
+PROGRAM = my_shell
+
+all: my_shell.c
+	$(CC) -o $(PROGRAM) my_shell.c $(CFLAGS)
+
+
+

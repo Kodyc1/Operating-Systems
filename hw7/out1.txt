@@ -1,0 +1,10 @@
+/var/www:
+total 0
+drwxr-xr-x 2 root root 6 Jul 18 08:30 cgi-bin
+drwxr-xr-x 2 root root 6 Jun  9  2014 html
+
+/var/www/cgi-bin:
+total 0
+
+/var/www/html:
+total 0
